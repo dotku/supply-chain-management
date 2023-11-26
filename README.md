@@ -5,4 +5,9 @@
 3. Invoice Manager
 4. Shipping Tracker
 5. Customer Support
-6. Sale based chargging plan/account based charge plan
+
+## Pricing
+
+1. Free for user account under 3
+2. Account based charge, $5/user account
+3. Customized charge for customized development feature request
